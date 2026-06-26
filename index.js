@@ -7,6 +7,7 @@ const USUARIOS = {
   "joao": "senha123",
   "will": "moura",
   "joais": "saturnino",
+  "renan": "alfa",
 };
 
 // ── Sessões ativas: { usuario: { token, lastSeen } } ──
