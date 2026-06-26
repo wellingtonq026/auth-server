@@ -6,6 +6,7 @@ app.use(express.json());
 const USUARIOS = {
   "joao": "senha123",
   "will": "moura",
+  "joais": "saturnino"
 };
 
 // ── Sessões ativas: { usuario: { token, lastSeen } } ──
